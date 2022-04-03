@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/exp4/LoginAndroid/app/src/main/res/layout/activity_count_down.xml" value="0.15081521739130435" />
+        <entry key="..\:/android/exp4/LoginAndroid/app/src/main/res/layout/activity_guide.xml" value="0.15081521739130435" />
+        <entry key="..\:/android/exp4/LoginAndroid/app/src/main/res/layout/activity_login.xml" value="0.3684971098265896" />
+        <entry key="..\:/android/exp4/LoginAndroid/app/src/main/res/layout/activity_main.xml" value="0.1328125" />
+        <entry key="..\:/android/exp4/LoginAndroid/app/src/main/res/layout/activity_news_detail.xml" value="0.1328125" />
+        <entry key="..\:/android/exp4/LoginAndroid/app/src/main/res/layout/activity_progressest.xml" value="0.1328125" />
+        <entry key="..\:/android/exp4/LoginAndroid/app/src/main/res/layout/activity_register.xml" value="0.1328125" />
+        <entry key="..\:/android/exp4/LoginAndroid/app/src/main/res/layout/info.xml" value="0.1328125" />
+        <entry key="..\:/android/exp4/LoginAndroid/app/src/main/res/layout/item_search.xml" value="0.1328125" />
+        <entry key="..\:/android/exp4/LoginAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14895833333333333" />
+        <entry key="..\:/android/exp4/LoginAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14895833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

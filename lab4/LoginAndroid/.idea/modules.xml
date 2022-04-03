@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LoginAndroid.iml" filepath="$PROJECT_DIR$/.idea/LoginAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoginAndroid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoginAndroid.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xhttp2-lib/LoginAndroid.xhttp2-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/xhttp2-lib/LoginAndroid.xhttp2-lib.iml" />
+    </modules>
+  </component>
+</project>

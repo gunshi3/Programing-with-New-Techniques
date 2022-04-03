@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">超级无敌帅的邓谨写的安卓登录APP</string>
+    <string name="account">用户名</string>
+    <string name="plesase_input_account">xxx</string>
+    <string name="login">登录</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="password">密码</string>
+    <string name="plesase_input_password">xxx</string>
+    <string name="go_to_registe">注册</string>
+    <string name="third_method_login"> third method login</string>
+    <string name="if_login_is_meaning_to_geree">if login is meaning to geree </string>
+    <string name="the_service">the service</string>
+    <string name="iv_third_method1">iv_third_method1</string>
+    <string name="iv_third_method2">iv_third_method2</string>
+    <string name="iv_third_method3">iv_third_method3</string>
+    <string name="iv_project_icon">iv_project_icon</string>
+    <string name="tv_register">注册</string>
+    <string name="tv_phone">用户名</string>
+    <string name="bt_get_code">查重</string>
+    <string name="tv_code">注册邀请码</string>
+    <string name="et_code">（可不填）</string>
+    <string name="tv_name">邮箱</string>
+    <string name="et_name">xxxx</string>
+    <string name="tv_gender">性别</string>
+    <string name="et_gender">1代表男性 2代表女性</string>
+    <string name="tv_age">年龄</string>
+    <string name="et_age">年龄</string>
+    <string name="tv_password">密码</string>
+    <string name="et_password">设置密码</string>
+    <string name="et_password2">确认密码</string>
+    <string name="bt_register">注册</string>
+    <string name="et_phone">xxx</string>
+</resources>
